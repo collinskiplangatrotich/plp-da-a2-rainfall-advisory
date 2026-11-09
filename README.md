@@ -36,6 +36,6 @@ Click the badge below to execute the analysis notebook directly in Google Colab:
 
 ## 🌾 Planting Advisory Summary
 
-* **Optimize Season Launch:** Farmers in Kisumu, Nairobi, and Machakos should align main crop planting with the April–May long rains, whereas coastal Mombasa farmers should target May–June when combined 2-month rainfall peaks at 350 mm.
+* **Optimize Season Launch:** Farmers in Kisumu, Nairobi, and Nakuru should align main crop planting with the April–May long rains, whereas coastal Mombasa farmers should target May–June when combined 2-month rainfall peaks at 350 mm.
 * **Manage Dry Season Risks:** Nakuru and Nairobi experience 4 to 5 dry months (< 50 mm/month) annually, necessitating soil moisture conservation, water harvesting, and drought-tolerant crop selection during July–September.
-* **Data Quality Caution:** Machakos advisories carry moderate confidence due to imputed values in April (121 mm) and September (121 mm), requiring validation against secondary station telemetry before deploying financial inputs.
+* **Data Quality Caution:** Machakos advisories carry moderate confidence due to imputed values in April (68 mm) and September (68 mm), requiring validation against secondary station telemetry before deploying financial inputs.
